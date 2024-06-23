@@ -1,0 +1,1 @@
+* Design the main bottom nav screen where should Bottom Navigation Bar

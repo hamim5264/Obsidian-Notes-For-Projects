@@ -1,0 +1,1 @@
+* In this screen only Cancelled task will be showed

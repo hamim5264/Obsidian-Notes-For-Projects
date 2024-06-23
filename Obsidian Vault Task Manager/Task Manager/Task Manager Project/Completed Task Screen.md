@@ -1,0 +1,1 @@
+* In this screen only Completed task will be showed
